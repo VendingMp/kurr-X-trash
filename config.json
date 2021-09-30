@@ -2,7 +2,7 @@
 	"prefix": "multi", 
 	"defaultSessionName": "session", 
 	"zeksKey": "T3L8YglCjxE9w81xx9azXpZX3z8",
-	"autoRead": false,
+	"autoRead": true,
 	"self": false, 
 	"maxLimit": 30,
 	"ownerList": ["62895383201495@s.whatsapp.net", "6281383717473@s.whatsapp.net"],
